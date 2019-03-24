@@ -1,2 +1,2 @@
 # Hackathon-Project
-This is the best game we have made in the given time frame. You click to guess the capital.
+This is the best game we have made in the given time frame. You are given a capital and should click where you think the capital is on the map. If you guess correctly you get a point. You get one try. If you are stuck you can click N to skip. Map image courtesy of Olivia Ih. Allie is a beginner. Shoutout to Aaron Sonnentag for doing things. Shoutout to Olivia as the graphics manager. Shoutout to Arthi for dedication and keeping us focused and letting us use her computer. Shoutout to Allie for getting us chocolate and correcting a typo. Enjoy. (:
